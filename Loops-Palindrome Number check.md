@@ -32,6 +32,8 @@ else:
 ## Output
 <img width="916" height="861" alt="image" src="https://github.com/user-attachments/assets/9f868a81-e7c1-40f4-9d89-be7a0a2ce1ac" />
 ```
+##output
+<img width="916" height="861" alt="image" src="https://github.com/user-attachments/assets/337dc94d-91e2-433e-8ff3-e94da84e2d01" />
 
 ## Result
 Thus, the given python program has been executed successfully
